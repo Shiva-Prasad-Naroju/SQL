@@ -1,0 +1,12 @@
+
+This is department table:
+table name : DEPT
+
+------------------------------------.
+DEPTNO       DNAME          LOC
+---------- ------------- -----------
+10          ACCOUNTING     NEW YORK
+20          RESEARCH       DALLAS
+30          SALES          CHICAGO
+40          OPERATIONS     BOSTON
+------------------------------------.
