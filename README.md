@@ -1,4 +1,4 @@
-## SQL Practice Exercises 🚀
+# SQL Practice Exercises 🚀
 
 📂 A collection of SQL queries and exercises to enhance database skills, covering fundamental to advanced concepts.
 
