@@ -1,5 +1,5 @@
 
-Note: Not all the Outputs values are shown here, just displayed few output values just for 
+Note: Not all the Outputs values are shown here, just displayed few outputs only for the 
 understanding purpose, the main aim of the module is to write the query. 
 
 ==================================================================
